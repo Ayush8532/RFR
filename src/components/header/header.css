@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Shalimar&display=swap');
+
+.headerTitle{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.headerTitleLg{
+    position: absolute;
+    top: 2%;
+    font-size: 200px;
+    font-family: 'Shalimar', cursive;
+}
+.headerimg{
+    width: 100%;
+    height: 570px;
+    object-fit: cover;
+}

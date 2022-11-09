@@ -1,0 +1,53 @@
+.singlePost{
+    flex: 9;
+}
+
+.singlePostwrapper{
+    padding: 20px;
+    padding-right: 0;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.singlePostimg{
+    width: 350px;
+    height: 300px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.singlePosttitle{
+    text-align: center;
+    margin: 10px;
+    font-size: 28px;
+}
+.singlePostedit{
+    float: right;
+    font-size: 16px;
+}
+.singlePosticon{
+    margin-left: 10px;
+    cursor: pointer;
+}
+.singlePosticon:first-child{
+    color: teal;
+}
+.singlePosticon:last-child{
+    color: tomato;
+}
+.singlePostinfo{
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 18px;
+    line-height: 45px;
+}
+
+
+
+
+
+
+

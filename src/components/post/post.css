@@ -1,0 +1,30 @@
+.post{
+    width: 100%;
+    margin: 0px 25px 40px 25px;
+    border-radius: 20px;
+    background-color: rgb(201, 201, 201);
+}
+.post:hover{
+    background-color:rgb(165, 165, 165) ;
+}
+.postInfo{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.posttitle{
+    font-size: 17px;
+    line-height: 30px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-right: 50px;
+    padding: 10px;
+    cursor: pointer;
+}
+.post-img{
+    width: 40px;
+    height: 40px;
+    margin: 8px;
+    border-radius: 50%;
+    object-fit: cover;
+}
