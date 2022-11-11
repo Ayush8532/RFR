@@ -8,11 +8,11 @@
 .headerTitleLg{
     position: absolute;
     top: 2%;
-    font-size: 200px;
+    font-size: 199.9px;
     font-family: 'Shalimar', cursive;
 }
 .headerimg{
-    width: 100%;
+    width: 99.9%;
     height: 570px;
     object-fit: cover;
 }
